@@ -1,0 +1,24 @@
+#valaam{
+    float: left;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 80%;
+    text-align: center;
+    margin: 0 10px 0 0;
+}
+#pristan{
+    float: right;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 80%;
+    text-align: center;
+    margin: 0 10px 0 10px;
+}
+.hidden{
+    display: none;
+    background-color: #EEEEFF;
+    border: solid blue 1px;
+    margin: 10px;
+    padding: 0 0 0 10px;
+    height: 320px;
+}
